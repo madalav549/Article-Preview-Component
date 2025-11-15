@@ -230,4 +230,7 @@ body{
     gap: 0.7rem;
     margin: 0 0 0 1rem;
   }
+  .hidden{
+    display: flex;
+  }
 }
