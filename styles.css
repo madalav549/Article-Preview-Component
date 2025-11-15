@@ -137,9 +137,6 @@ body{
   background-color: var(--main-background);
   border: none;
 }
-.hidden{
-  display: flex;
-}
 @media all and (min-width: 768px){
   .main-container{
     display: grid;
